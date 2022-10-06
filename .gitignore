@@ -1,0 +1,37 @@
+# IDE Files
+/nbproject/
+.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+
+# Global files
+*.zip
+.svn
+.DS_Store
+*thumbs.db
+*Thumbs.db
+*.bat
+
+# Codeigniter files
+*/user_guide
+*/system/logs/log-*.php
+*/system/cache/*
+*/system/cache/!index.html
+*/wsdls/*
+*mailing/
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+/vendor/
+application/config/config.php
+application/config/database.php
+application/controllers/apis/*
+application/models/apis/*
+/extras/
