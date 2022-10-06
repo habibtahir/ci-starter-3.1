@@ -16,8 +16,10 @@ document root maps to this **public** folder inside your project.
 If you wish to run your app from the command line, for testing,
 then the following, from your project root, would run it on port 8000:
 
+```
 cd public
 php -S localhost:8000
+```
 
 ##Installation
 
